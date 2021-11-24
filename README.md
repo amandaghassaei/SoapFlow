@@ -1,7 +1,7 @@
 # SoapFlow
 
 This repo is a work in progress.
-I'm hoping to build a fluid simulation of a 2D soap film - so far I've posted some info about computing a color lookup table for thin film interference.
+I'm hoping to build a fluid simulation of a 2D soap film - so far I've posted some info about computing a color lookup table for thin film interference in the `python` folder.
 
 <img src="https://github.com/amandaghassaei/SoapFlow/raw/main/dist/lookup.png" width="500">
 
